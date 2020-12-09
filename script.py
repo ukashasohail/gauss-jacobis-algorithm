@@ -1,5 +1,7 @@
 print("beta version")
 
+# i felt some anamolous behaviour, feel free to create a PR after testing 
+
 # equation 1
 x1 = float(input("enter x1 : "))
 y1 = float(input("enter y1 : "))
